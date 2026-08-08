@@ -1,42 +1,51 @@
 # 🚀 Aditya Kumar | Data Science & AI Portfolio
 
 A modern, responsive, and interactive portfolio showcasing my journey in **Data Science, Artificial Intelligence, Machine Learning, and Generative AI**.
+## 📸 Portfolio Preview
 
+![Portfolio Screenshot](images/screenshot.png)
+
+---
 ## 🌐 Live Demo
 
-🔗(https://portfolio-aditya-b74b.vercel.app/)
+🔗 **[View Live Portfolio](https://portfolio-aditya-b74b.vercel.app/)**
 
 ---
 
+
+
 ## 📌 About
 
-This portfolio highlights my:
+This portfolio showcases my:
 
 - 🎓 Education
 - 💼 Experience
 - 🏆 Certifications
 - 💻 Technical Skills
-- 🤖 AI Projects
+- 🤖 AI & Machine Learning Projects
 - 📄 Resume
-- 📬 Contact Form (EmailJS)
+- 📚 Blog
+- 📬 Contact Form
 
-Designed with a modern glassmorphism UI and smooth animations.
+The portfolio is designed with a modern **glassmorphism interface**, responsive layouts, smooth animations, and interactive components.
 
 ---
 
 ## ✨ Features
 
 - ⚡ Modern Dark UI
-- 📱 Fully Responsive
+- 📱 Fully Responsive Design
 - 🎯 Interactive Hero Section
-- 🤖 AI Chat Assistant Animation
+- 🤖 AI Chat Assistant
 - 🧠 Animated Skills Showcase
 - 🏆 Certificate Gallery
-- 📊 Experience Timeline
+- 💼 Experience Timeline
+- 🎓 Education Timeline
 - 📚 Blog Section
 - 📬 EmailJS Contact Form
 - 🎨 Smooth Scroll Animations
-- 🌙 Glassmorphism Design
+- 🌌 Glassmorphism Design
+- 🔗 Social Media Integration
 
 ---
 
@@ -48,7 +57,7 @@ Designed with a modern glassmorphism UI and smooth animations.
 - CSS3
 - JavaScript (ES6)
 
-### Libraries
+### Libraries & Services
 
 - EmailJS
 - Font Awesome
@@ -57,15 +66,16 @@ Designed with a modern glassmorphism UI and smooth animations.
 
 - Glassmorphism
 - CSS Animations
-- Responsive Layout
+- Responsive Design
 - Gradient Effects
+- Interactive UI Components
 
 ---
 
-## 📂 Folder Structure
+## 📂 Project Structure
 
 ```text
-Portfolio/
+personal-portfolio/
 │
 ├── index.html
 ├── style.css
@@ -74,6 +84,7 @@ Portfolio/
 ├── images/
 │   ├── profile.jpg
 │   ├── logo.png
+│   ├── screenshot.png
 │   └── ...
 │
 ├── certificates/
@@ -89,27 +100,28 @@ Portfolio/
 
 ---
 
-## 📖 Sections
+## 📖 Portfolio Sections
 
-- Home
-- About
-- Skills
-- Projects
-- Experience
-- Education
-- Certificates
-- Blog
-- Contact
+- 🏠 Home
+- 👨‍💻 About
+- 🛠️ Skills
+- 🚀 Projects
+- 💼 Experience
+- 🎓 Education
+- 🏆 Certificates
+- 📚 Blog
+- 📬 Contact
 
 ---
 
-## 🤖 Skills
+## 🤖 Technical Skills
 
 ### Programming
 
 - Python
 - SQL
 - R
+- JavaScript
 
 ### Data Science
 
@@ -124,27 +136,34 @@ Portfolio/
 - Regression
 - Classification
 - Clustering
+- Feature Engineering
 - Model Evaluation
+- Predictive Analytics
 
 ### Deep Learning
 
 - TensorFlow
 - PyTorch
 
-### Generative AI
+### Generative AI & NLP
 
 - OpenAI API
 - LangChain
 - NLP
+- LLM Applications
+- RAG
 
 ### Visualization
 
 - Power BI
 - Streamlit
+- Matplotlib
+- Seaborn
 
-### Tools
+### Tools & Development
 
 - Git
+- GitHub
 - Docker
 - FastAPI
 - PostgreSQL
@@ -153,92 +172,133 @@ Portfolio/
 
 ## 🏆 Certifications
 
-- Data Science Internship — CodSoft
-- Winter Training Program — IIT Kanpur (E&ICT Academy)
-- Python for Data Science — NPTEL (IIT Madras)
+- **Data Science Internship** — CodSoft
+- **Winter Training Program in Full Stack Web Development** — E&ICT Academy, IIT Kanpur
+- **Python for Data Science** — NPTEL, IIT Madras
 
 ---
 
 ## 💼 Featured Projects
 
-- AI Portfolio Assistant
-- JanSuraksha District AI
-- Fake News Detection
-- Credit Card Fraud Detection
-- Movie Rating Prediction
-- Sales Prediction
-- Titanic Survival Prediction
-- Iris Flower Classification
+### 🤖 AI-Powered Financial Assistant
+
+Conversational AI application designed to analyze personal financial information and provide intelligent financial insights.
+
+**Technologies:** Python, LangChain, OpenAI API, FastAPI, PostgreSQL
+
+---
+
+### 📊 Customer Churn Prediction
+
+Machine Learning project that predicts customers who are likely to churn and helps businesses develop proactive customer retention strategies.
+
+**Technologies:** Python, Pandas, Scikit-learn, XGBoost, Power BI
+
+---
+
+### 🏠 Real Estate Price Prediction
+
+Machine Learning application for predicting real estate prices using property-related features and an interactive Streamlit interface.
+
+**Technologies:** Python, Pandas, NumPy, Scikit-learn, Streamlit
+
+---
+
+### 📰 Fake News Detection
+
+Machine Learning-based application for classifying news articles as real or fake using Natural Language Processing techniques.
+
+**Technologies:** Python, NLP, TF-IDF, Scikit-learn
+
+---
+
+### 🛡️ Credit Card Fraud Detection
+
+Machine Learning model designed to identify potentially fraudulent credit card transactions.
+
+**Technologies:** Python, Pandas, NumPy, Scikit-learn
 
 ---
 
 ## 📧 Contact
 
-Feel free to connect with me.
+I'm always open to connecting, discussing ideas, and collaborating on interesting projects.
 
-- 📩 Email: your-email@example.com
-- 💼 LinkedIn: https://linkedin.com/in/your-profile
-- 💻 GitHub: https://github.com/Adityaweb1
+- 📩 **Email:** [Adityapandeykv19@gmail.com](mailto:Adityapandeykv19@gmail.com)
+- 💼 **LinkedIn:** [Aditya Kumar](https://www.linkedin.com/in/aditya-kumar-data)
+- 💻 **GitHub:** [Adityaweb1](https://github.com/Adityaweb1)
 
 ---
 
-## 🚀 Installation
+## 🌐 Live Portfolio
 
-Clone the repository.
+**[🚀 Visit My Portfolio](https://portfolio-aditya-b74b.vercel.app/)**
+
+---
+
+## 🚀 Run Locally
+
+Clone the repository:
 
 ```bash
-git clone https://github.com/Adityaweb1/portfolio.git
+git clone https://github.com/Adityaweb1/personal-portfolio.git
 ```
 
-Go to the project folder.
+Navigate to the project:
 
 ```bash
-cd portfolio
+cd personal-portfolio
 ```
 
 Open `index.html` in your browser.
 
+Alternatively, use **VS Code Live Server** to run the portfolio locally.
+
 ---
 
-## 📬 Email Configuration
+## 📬 EmailJS Configuration
 
-This portfolio uses **EmailJS**.
+The contact form uses **EmailJS** to send messages directly from the portfolio.
 
-Create an account at:
-
-https://www.emailjs.com/
-
-Configure:
+Configure the following in `script.js`:
 
 - Service ID
 - Template ID
 - Public Key
 
-Update them in `script.js`.
+> ⚠️ Do not expose private API keys or sensitive credentials in the repository.
 
 ---
 
 ## 🌟 Future Improvements
 
-- Blog CMS Integration
-- Project Filtering
-- Light/Dark Theme Toggle
-- Visitor Analytics Dashboard
-- AI Resume Chatbot
-- Multi-language Support
+- 📝 Blog CMS Integration
+- 🔎 Project Filtering
+- 🌗 Light/Dark Theme Toggle
+- 📊 Visitor Analytics
+- 🤖 AI Resume Assistant
+- 🌍 Multi-language Support
+- 📱 Progressive Web App (PWA)
+- ☁️ Backend Integration
 
 ---
 
 ## 📄 License
 
-This project is licensed under the MIT License.
+This project is licensed under the **MIT License**.
 
 ---
 
 ## 👨‍💻 Author
 
-**Aditya Kumar**
+# Aditya Kumar
 
-Data Science | Artificial Intelligence | Machine Learning | Generative AI
+**Data Science | Artificial Intelligence | Machine Learning | Generative AI**
 
-⭐ If you like this project, don't forget to star the repository!
+🌐 **[Portfolio](https://portfolio-aditya-b74b.vercel.app/)**  
+💻 **[GitHub](https://github.com/Adityaweb1)**  
+💼 **[LinkedIn](https://www.linkedin.com/in/aditya-kumar-data)**
+
+---
+
+⭐ If you like this portfolio, consider giving the repository a **Star** on GitHub!
