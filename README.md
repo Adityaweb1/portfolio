@@ -3,7 +3,7 @@
 A modern, responsive, and interactive portfolio showcasing my journey in **Data Science, Artificial Intelligence, Machine Learning, and Generative AI**.
 ## 📸 Portfolio Preview
 
-![Portfolio Screenshot](images/screenshot.png)
+![Portfolio Screenshot](images/Screenshot.png)
 
 ---
 ## 🌐 Live Demo
