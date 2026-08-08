@@ -4,7 +4,7 @@ A modern, responsive, and interactive portfolio showcasing my journey in **Data 
 
 ## 🌐 Live Demo
 
-🔗 https://your-portfolio-link.vercel.app
+🔗(https://portfolio-aditya-b74b.vercel.app/)
 
 ---
 
