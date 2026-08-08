@@ -5,10 +5,7 @@ A modern, responsive, and interactive portfolio showcasing my journey in **Data 
 
 ![Portfolio Screenshot](images/Screenshot.png)
 
----
-## 🌐 Live Demo
-
-🔗 **[View Live Portfolio](https://portfolio-aditya-b74b.vercel.app/)**
+🔗 **[ 🌐 Live Demo](https://portfolio-aditya-b74b.vercel.app/)**
 
 ---
 
